@@ -11,7 +11,6 @@
 
 - 🎯 B2B 보안 제품의 **기획부터 판매·과금·라이선스 구조**까지 End-to-End 오너십
 - 🤖 요즘은 **Claude Code로 직접 기획한 플랫폼을 개발**하고, 기획 업무를 자동화하고 있습니다
-- ✍️ [기발자로 살아남기](https://velog.io/@kodayoung1/posts) — 기획자의 시선으로 만들고 배운 걸 기록합니다
 
 ---
 
@@ -21,19 +20,9 @@
 
 **Claude Code 활용 지표** _(실측, 2026.07 기준)_
 
-| 51,360 | 465 | 50종 | 17개 | 6종 | 95% |
+| 61,692 | 532 | 58종 | 20개 | 7종 | 96% |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 툴 실행 누적 | 작업 세션 | 자체 제작 스킬 | MCP 연동 | 직접 만든 플러그인 | 캐시 히트율 |
-
----
-
-## 🚀 대표 프로젝트
-
-| 프로젝트 | 한 줄 소개 |
-|---|---|
-| **[my-plugins](https://github.com/kodayoung/my-plugins)** | 구현된 화면을 기획팀 라이브러리 기반 Figma에 **기획안 형태로 자동 작성**하는 멀티에이전트 플러그인 |
-| **[multi-agent-pipeline](https://github.com/kodayoung/multi-agent-pipeline)** | 기획·디자인·프론트·백엔드·QA **5개 서브에이전트가 협업**해 기능 추가/수정을 처리하는 파이프라인 |
-| **[clawd-code-usage-dashboard](https://github.com/kodayoung/clawd-code-usage-dashboard)** | Claude Code 사용량(Skill·MCP·토큰·프로젝트별)을 **Supabase + Chart.js로 시각화**하는 대시보드 |
+| 툴 실행 누적 | 작업 세션 | 활용 스킬 | MCP 연동 | 직접 만든 플러그인 | 캐시 히트율 |
 
 ---
 
